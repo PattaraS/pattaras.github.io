@@ -6,7 +6,7 @@ excerpt: 'Tuza conjectured on the ratio between triangle packing and triangle co
 date: 2020-01-05
 venue: 'SODA 20'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.121'
-citation: 'Chalermsook, Parinya, Samir Khuller, <b>Pattara Sukprasert</b>, and Sumedha Uniyal. "Multi-transversals for Triangles and the Tuza\'s Conjecture." In <i>Proceedings of the Fourteenth Annual ACM-SIAM Symposium on Discrete Algorithms</i>, pp. 1955-1974. Society for Industrial and Applied Mathematics, 2020.'
+citation: 'asddas'
 ---
 
 Tuza conjectured on the ratio between triangle packing and triangle covering. We prove the multi-tranversals version of the conjecture.
