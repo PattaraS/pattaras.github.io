@@ -11,4 +11,4 @@ citation: 'Chalermsook, Parinya, Samir Khuller, <b>Pattara Sukprasert</b>, and S
 
 Tuza conjectured that the ratio between max triangle packing and min triangle covering is bounded by two. We prove the multi-tranversals version of the conjecture.
 
-[Full Version](https://arxiv.org/abs/2001.00257)
+\[[Full Version](https://arxiv.org/abs/2001.00257)\]
