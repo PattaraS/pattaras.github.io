@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/),
+I am a sixth-year Ph.D. student at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/),
 where I am fortunate to be advised by [Prof. Samir Khuller](https://www.samirkhuller.com/).
 Before that, I obtained a Bahelor's degree in Computer Engineering from [Chulalongkorn University](https://https://www.cp.eng.chula.ac.th/), a Master's degree in Computer Engineering from [Kasetsart University](https://www.cpe.ku.ac.th/?lang=en), and a Master's degree in Computer Science from [University of Maryland, College Park](https://www.cs.umd.edu/). I never thought I would ever obtain two Master's degrees until I had done it.
 
