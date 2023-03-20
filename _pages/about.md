@@ -17,5 +17,5 @@ I have broad interests in topics related to graph theory. Most of my works are r
 Outside of work, I enjoy trying out different restaurants and cafes, drinking good coffees,
 traveling to different places. I spent most of my life in big cities (Bangkok, Singapore, Chicago), so every trip to national parks was special to me.
 
-** I'm graduating this Spring and am looking for a job in industry. If you think I will be a good fit in any openings, please contact me via my email!**
+<span style="color:red"><strong>I'm graduating this Spring and am looking for a job in industry. If you think I will be a good fit in any openings, please contact me via my email!</strong></span>
 
