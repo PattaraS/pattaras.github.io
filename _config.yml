@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pat Sukprasert"
 title_separator          : "-"
 name                     : &name "Pattara Sukprasert"
-description              : &description "Graduate Student at Northwestern University"
+description              : &description "Software Engineer at Databricks"
 url                      : https://pattaras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pattaras/pattaras.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pat Sukprasert"
   avatar           : "profile.png"
-  bio              : "A 6th year Ph.D. stduent in Computer Science"
-  location         : "Northwestern University"
-  employer         :
+  bio              : "Software Engineer at Databricks, working on Omnigent and MLflow"
+  location         : "Singapore"
+  employer         : "Databricks"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jeQidJUAAAAJ&hl=en&oi=ao"
-  email            : "pattara@u.northwestern.edu"
+  email            : "pattara.sk127@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
