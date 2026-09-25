@@ -12,8 +12,9 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "CV"
-    url: /files/cv.pdf
+  # CV PDF is from 2023; re-enable once files/cv.pdf is refreshed
+  # - title: "CV"
+  #   url: /files/cv.pdf
 
   # - title: "Guide"
   #   url: /markdown/
