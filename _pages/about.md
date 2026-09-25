@@ -21,7 +21,7 @@ Before that, I obtained a Bachelor's degree in Computer Engineering from [Chulal
 
 My research was mostly about graphs in one way or another: graph algorithms, approximation algorithms, dynamic and parallel algorithms, online algorithms, clustering, fairness, and stability.
 While most of that work was on the theoretical side, I am delighted to have papers on cancer research and dataset versioning, which are arguably closer to practical usage.
-See my [publications](/publications/) for more.
+I am no longer an active researcher, but you can still find my past work on my [publications](/publications/) page.
 
 Outside of work, I enjoy trying out different restaurants and cafes, drinking good coffees,
 and traveling to different places. I have spent most of my life in big cities (Bangkok, Singapore, Chicago), so every trip to a national park is special to me.
