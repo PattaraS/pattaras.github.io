@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a software engineer at [Databricks](https://www.databricks.com/), based in Singapore, where I work on [MLflow](https://github.com/mlflow/mlflow), the open-source platform for building and operating ML and GenAI applications.
-Lately I have been working on the AI Gateway, tracing performance, LLM-as-a-judge evaluation, and access control (RBAC) for MLflow.
+I am a software engineer at [Databricks](https://www.databricks.com/), based in Singapore, where I work on open-source AI tooling.
+
+- **[Omnigent](https://omnigent.ai)** ([GitHub](https://github.com/omnigent-ai/omnigent)): an open-source meta-harness that gives a common orchestration layer over AI coding agents like Claude Code, Codex, and Cursor. I work on its CI and test infrastructure, the agents that review and fix Omnigent's own pull requests, and the reliability of its runtime and CLI.
+- **[MLflow](https://github.com/mlflow/mlflow)**: the open-source platform for building and operating ML and GenAI applications. I have worked on the AI Gateway, tracing performance, LLM-as-a-judge evaluation, and access control (RBAC).
+
+Before joining this team, I worked on query optimization at Databricks.
 
 Before Databricks, I received my Ph.D. in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/),
 where I was fortunate to be advised by [Prof. Samir Khuller](https://www.samirkhuller.com/).
